@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "139095265057",
+    "firebase_url": "https://medtracker-2ed9b.firebaseio.com",
+    "project_id": "medtracker-2ed9b",
+    "storage_bucket": "medtracker-2ed9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139095265057:android:4d973ce8611ae520",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139095265057-o1vjk2f27q5546a1sfpp3522e5ko3ng6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOO6q2oPj5jyafnuAfqfgwlK5vjdufpSo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139095265057:android:deb67b3255ce4481",
+        "android_client_info": {
+          "package_name": "cus1194.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139095265057-o1vjk2f27q5546a1sfpp3522e5ko3ng6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOO6q2oPj5jyafnuAfqfgwlK5vjdufpSo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
